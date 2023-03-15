@@ -5,7 +5,14 @@ coffeeMug = {
     isInsulated: true,
     materials: ["ceramic", "silicone"],
     hasHandler: true,
-}
+};
+// function
+console.log (coffeeMug.brand); Output: "Costa"
+console.log (coffeeMug.color); Output: "white"
+console.log (coffeeMug.capasity); Output: 12
+console.log (coffeeMug.isInsulated); Output: true
+console.log (coffeeMug.materials); Output: ["ceramic", "silicone"]
+console.log (coffeeMug.hasHandler); Output: true
 
 
 smartphone = {
