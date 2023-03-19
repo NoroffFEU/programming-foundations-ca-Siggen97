@@ -42,3 +42,12 @@ smartphone = {
     ],
     hasFaceID: true
 };
+// function
+console.log (smartphone.brand); Output: "Apple"
+console.log (smartphone.color); Output: "white"
+console.log (smartphone.size); Output: 6.1
+console.log (smartphone.resolution); Output: "2532x1170"
+console.log (smartphone.isOLED); Output: true
+console.log (smartphone.capasity); Output: ["311"]
+console.log (smartphone.isRemovable); Output: true
+console.log (smartphone.hasFaceID); Output: true
